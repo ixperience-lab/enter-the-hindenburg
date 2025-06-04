@@ -1,6 +1,6 @@
 # Enter the Hindenburg — VR Cultural Heritage Experience
 
-This repository accompanies the website for the shoort paper:
+This repository accompanies the website for the short paper:
 
 **Enter the Hindenburg: Experiencing Cultural Heritage by Social Interaction in Hybrid Space**  
 _Submitted to XR Salento 2025_
